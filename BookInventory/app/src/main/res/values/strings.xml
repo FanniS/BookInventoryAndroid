@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BookInventory</string>
+    <string name="read">Read it</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_book_item">New book</string>
+    <string name="edit_book_item">Edit book</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="category">Category</string>
+    <string name="year">Year</string>
+    <string name="already_read">Already read it</string>
+    <string name="show_similar">Show Similar</string>
+    <string name="book">%s</string>
+    <string name="similar">Similar Books to %s</string>
+    <string name="book_test">Book</string>
+    <string name="author_test">John</string>
+    <string name="category_test">Crime</string>
+    <string name="year_test">2021</string>
+    <string name="show_category_description">Show Category</string>
+    <string name="floatingbutton">FloatingButton</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="icon_placeholder">Icon Placeholder</string>
+    <string name="category_icon">Category Icon</string>
+    <string-array name="category_items">
+        <item>CRIME</item>
+        <item>LITERATURE</item>
+        <item>ROMANTIC</item>
+        <item>SCIFI</item>
+        <item>HISTORICAL</item>
+        <item>DRAMA</item>
+        <item>POLITICAL</item>
+        <item>KIDS</item>
+        <item>YOUNG</item>
+    </string-array>
+</resources>
